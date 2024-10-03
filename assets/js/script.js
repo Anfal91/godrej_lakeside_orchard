@@ -10,6 +10,7 @@ AOS.init({
 "use strict";
 
 
+
 const preLoader = function () {
   let preloaderWrapper = document.getElementById("preloader");
   window.onload = () => {
